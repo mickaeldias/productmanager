@@ -26,3 +26,8 @@ Este é um programa em Python para a gestão de produtos. Ele permite adicionar,
 ## Contribuições
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão para melhorar o programa, por favor, crie uma issue ou pull request. 
+
+
+## Programa
+![Captura de Ecrã (94)](https://user-images.githubusercontent.com/72349836/236511881-9bda7154-6fe3-4620-a07e-08200e632247.png)
+
